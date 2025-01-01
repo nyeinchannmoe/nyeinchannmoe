@@ -1,7 +1,7 @@
 # Welcome 👋
 
 I'm **Nyein Chann Moe**, a passionate full-stack developer with expertise in Flutter,Jetpack Compose and .NET development. [Welcome to my GitHub playground!](https://github.com/InnwaCommunity)
-Highly skilled Mobile Developer with 2+ years of experience designing and developing innovative mobile applications for iOS and Android platforms. As a Mobile Developer, I specialize in creating high-performing, user-friendly solutions through cross-platform technologies like Flutter and Jetpack Compose. I bring expertise in mobile development and API integration using .NET, combined with a structured approach to software engineering. My commitment to clear and comprehensive documentation fosters effective collaboration and ensures valuable resources for future maintenance.
+Highly skilled Mobile Developer with 3+ years of experience designing and developing innovative mobile applications for iOS and Android platforms. As a Mobile Developer, I specialize in creating high-performing, user-friendly solutions through cross-platform technologies like Flutter and Jetpack Compose. I bring expertise in mobile development and API integration using .NET, combined with a structured approach to software engineering. My commitment to clear and comprehensive documentation fosters effective collaboration and ensures valuable resources for future maintenance.
 
 ## 📄 Download My CV
 
